@@ -1,0 +1,48 @@
+body{
+    margin:0px;
+    padding: 0px;
+}
+
+.section{
+    margin: 50px;
+    width: 40%;
+    padding: 30px;
+    margin-left: 400px;
+}
+
+.section h1{
+    text-align: center;
+    color: rgb(166, 0, 33);
+}
+
+.container{
+    background-color: antiquewhite;
+    margin: 20px;
+    padding: 20px;
+    border: none;
+}
+
+.con{
+    padding: 10px;
+}
+
+.opt1,.opt2,.opt3,.opt4{
+    padding:10px;
+}
+
+button{
+    padding: 10px;
+}
+
+.opt,.Opt{
+    width: 7%;
+    background-color: palevioletred;
+    border: none;
+}
+
+.ans,.Ans{
+    width: 60%;
+    text-align: left;
+    background-color: white;
+    border: none;
+}
